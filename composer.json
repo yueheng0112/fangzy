@@ -1,0 +1,20 @@
+{
+    "name": "fangzy/role",
+    "description": "role generate",
+    "type": "library",
+    "require": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "fangzhongyi",
+            "email": "2522968417@qq.com"
+        }
+    ],
+	"authoload":{
+		"files":[],
+		"psr-4":{
+			"fangzy\\role\\":"src/role/"
+		}
+	}
+}
