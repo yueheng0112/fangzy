@@ -11,10 +11,10 @@
             "email": "2522968417@qq.com"
         }
     ],
-	"authoload":{
+	"autoload":{
 		"files":[],
 		"psr-4":{
-			"fangzy\\role\\":"src/role/"
+			"fangzy\\":"src/"
 		}
 	}
 }
